@@ -8,8 +8,7 @@
   → [Click to select English](./english/)
 
 ## How to use
-1. Pobierz folder języka, który chcesz stosować.
-2. Wklej go do katalogu gry z plikami językowymi.
-3. W ustawieniach gry wybierz odpowiedni language pack.
+1. Go to C:\Program Files (x86)\Steam\steamapps\common\SCP Secret Laboratory
+2. Put the downloaded package into the Translations folder
 
 - Author: **Pjetereks**
