@@ -2,7 +2,7 @@
 
 ## Avaiable Languages
 - **Polski**
-  → [Click to select Polish](./polish/)
+  → [Click to select Polish](./SCP-SP-Custom-Language/Releases/PL)
 
 - **English**
   → [Click to select English](./english/)
