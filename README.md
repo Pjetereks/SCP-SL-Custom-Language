@@ -2,7 +2,7 @@
 
 ## Avaiable Languages
 - **Polski**
-  → [Click to select Polish](./releases/PL)
+  → [Click to select Polish](/releases/PL)
 
 - **English**
   → [Click to select English](./english/)
