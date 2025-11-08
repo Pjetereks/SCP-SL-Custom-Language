@@ -8,7 +8,7 @@
   → [Click to select English](./english/)
 
 ## How to use
-1. Go to C:\Program Files (x86)\Steam\steamapps\common\SCP Secret Laboratory
+1. Go to `C:\Program Files (x86)\Steam\steamapps\common\SCP Secret Laboratory`
 2. Put the downloaded package into the Translations folder
 
 - Author: **Pjetereks**
