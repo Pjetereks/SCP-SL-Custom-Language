@@ -2,7 +2,7 @@
 
 ## Avaiable Languages
 - **Polski**
-  → [Click to select Polish](./releases/tag/PL)
+  → [Click to select Polish](main/releases/tag/PL)
 
 - **English**
   → [Click to select English](./english/)
