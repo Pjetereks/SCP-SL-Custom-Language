@@ -1,11 +1,8 @@
 # SCP: Secret Laboratory - Language Pack
 
 ## Avaiable Languages
-- **Polski**
-  → [Click to select Polish](https://github.com/Pjetereks/SCP-SL-Custom-Language/releases/tag/PL)
-
-- **English**
-  → [Click to select English](./english/)
+- **Polish**
+  → [Click to select Polish](https://github.com/Pjetereks/SCP-SL-Custom-Language/releases)
 
 ## How to use
 1. Go to `C:\Program Files (x86)\Steam\steamapps\common\SCP Secret Laboratory`
